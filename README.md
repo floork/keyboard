@@ -1,17 +1,24 @@
-# My Keyboardlayout
+# My Keyboard
 
-Currently I use the [Lily58](https://holykeebs.com/products/lily58) as my keyboard.
+- [My Keyboard](#my-keyboard)
+    - [Layout](#layout)
+        - [Normal Layer](#normal-layer)
+        - [First Layer](#first-layer)
+     - [Side Note](#side-note)
 
-## The layout
+## Layout
 
-This is the normal layer:
+### Normal Layer
 
-![](./pictures/base-layer.png)
+![Normal Layer](./pictures/base-layer.png)
 
-This is the first layer:
+### First Layer
 
-![](./pictures/layer-1.png)
+![First Layer](./pictures/layer-1.png)
 
-## Configurated with
+## Side Note
 
-[usevia](https://usevia.com/)
+I've configured my Window Manager to **swap Caps Lock with Escape** and *Escape with Caps Lock*, which explains why they're in unusual positions.
+This setup allows me to easily access the Escape key even when using a laptop keyboard.
+
+Configured with [usevia](https://usevia.com/).
